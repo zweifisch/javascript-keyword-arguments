@@ -1,0 +1,27 @@
+{
+  "name": "keyword-arguments",
+  "version": "0.0.0",
+  "description": "keyword arguments",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "keyword",
+    "arguments"
+  ],
+  "author": "zf",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^1.20.1"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zweifisch/javascript-keyword-arguments.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zweifisch/javascript-keyword-arguments/issues"
+  },
+  "homepage": "https://github.com/zweifisch/javascript-keyword-arguments"
+}
